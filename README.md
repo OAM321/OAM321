@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Omar!
 - 👀 I’m a Senior Year student of Information Technology and Supply Chain Management 
-- 🌱 I’m currently learning Java and Python to integrate my skills with RDBMS platforms 
+- 🌱 I’m currently elevating my SQL and Python to integrate my skills with RDBMS platforms 
 - 💞️ I’m looking to niche myself in SQL/Data based roles and equip myself with more tools to be a successful Analyst | Also use my Business Intelligence tools Experience and Supply Chain background where applicable
 - 📫 How to reach me https://www.linkedin.com/in/omar-mohiuddin-allstar/
 
